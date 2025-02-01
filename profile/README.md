@@ -1,7 +1,7 @@
 ## Just Pods :space_invader:
 
 - [**JustLoad** :clapper:]()
-- [**JustTrade** :money_with_wings:]()
+- [**JustTrade** :coin:]()
 - [**JustCard** :game_die:]()
 
 <!-- REF: https://github.com/orgs/community/discussions/16925 -->
